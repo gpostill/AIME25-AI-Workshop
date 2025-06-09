@@ -8,7 +8,7 @@
 2. Then pick your discussion. 
     - **[Discussion 1] ()**: What clinical knowledge would developers need? 
     - **[Discussion 2] ()**: What technical knowledge needed by physicians?
-    - **[Discussion 3] ()**: How can we design user Interfaces to facilitate interdisciplinary communication?
+    - **[Discussion 3] ()**: How can we design user interfaces to facilitate interdisciplinary communication?
     - **[Discussion 4] ()**: What is needed to ensure successful deployment?
     - **[Discussion 5] ()**: How should we navigate ethical considerations of models once deployed?  
 
