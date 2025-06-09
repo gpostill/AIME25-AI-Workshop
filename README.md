@@ -1,17 +1,31 @@
-# The AI Learning Curve: What Physicians Need to Know About AI, and What Developers Need to Know About Medicine**.
-**A workshop for the AIME 2025 Conference** 
+# The AI Learning Curve: What Physicians Need to Know About AI, and What Developers Need to Know About Medicine
+*A workshop for the AIME 2025 Conference*
 
-Welcome to the official workshop site! This workshop is created through a collaboration with researchers at [T-CAIREM](https://tcairem.utoronto.ca) (University of Toronto) and the [AMA](https://www.ama-assn.org) (Ameriican Medical Assocaition). We designed the session for computer science and medical - both trainees and researchers alike. 
+Welcome to the official workshop site for our AIME 2025 workshop! This workshop is created through a collaboration with researchers at [T-CAIREM](https://tcairem.utoronto.ca) (University of Toronto) and the [AMA](https://www.ama-assn.org) (Ameriican Medical Assocaition). 
+
 
 ---
-## 💬 Workshop Abstract
+## 💬 Workshop Rationale and Overview
 
-The integration of Artificial Intelligence (AI) into healthcare is rapidly transforming medical practice. Successful deployment of AI models into healthcare requires interdisciplinary collaborations between clinicians and data scientists. Yet, such collaboration is impeded by the lack of shared understanding and language across disciplines. Additionally, there remains significant debate on the level of technical expertise required for healthcare professionals to safely leverage AI tools. 
+The increasing deployment of AI in healthcare raises critical questions about how clinicians should be trained to interact with AI-driven decision support tools. While some argue that physicians need only a conceptual understanding of AI, others believe deeper technical training is necessary to ensure safe and effective use. Similarly, for AI developers, the extent of clinical expertise required has yet to be explicitly stated; indeed, an understanding of the healthcare context is pertinent as various assumptions about clinical variables and workflows are embedded within model architectures. Providing guidelines around the types of knowledge needed by each stakeholder (hospital, clinicians, developers) is pertinent to enable interdisciplinary collaboration. Clear guidelines around the knowledge of each stakeholder is also a pre-requirement to current debates around equity and liability with deployed AI models. This topic is particularly relevant to AIME attendees, as AI literacy among healthcare professionals – and health literacy among AI developers – are foundational factors in determining the success of AI integration into clinical practice. 
 
 This workshop will explore the core technical AI competencies necessary for clinicians using AI, as well as the tenants of healthcare that data scientists need to be aware of when developing AI for healthcare and health research. Through interactive discussions, case studies, and hands-on activities, participants will evaluate different AI education models, discuss legal and ethical considerations, and propose strategies fostering AI literacy among healthcare professionals. The session will conclude with structured data collection to capture participants' insights, informing a follow-up commentary on the evolving role of interdisciplinary collaboration and AI literacy in healthcare. To ensure the findings of this workshop translate to the broader community, our output will be a commentary summarizing the thoughts discussed in the workshop titled: **The AI Learning Curve: What Physicians Need to Know About AI, and What Developers Need to Know About Medicine**.
 
+Target audience of our workshop includes AIME attendees who are:
+- Clinicians and medical educators interested in AI integration into healthcare
+- AI researchers and developers, including trainees, focusing on healthcare applications
+- Medical students and residents seeking AI literacy
+- Policymakers and administrators designing AI education policies
 
-## 💬 Workshop Abstract
+
+## 💬 Workshop Topics
+
+This workshop will explore key considerations of the education and interdisciplinary collaboration needed for integrating AI into medical education and clinical practice. The session will focus on the following topics:
+- **Knowledge needed across interdisciplinary stakeholders:** We will explore the appropriate level of technical expertise required for clinicians to effectively and safely use AI-driven tools in decision-making, and conversely the appropriate clinical knowledge needed for developers to understand the clinical context.
+- **AI Literacy in Medical Education:** We will establish foundational AI competencies for healthcare professionals, ensuring they can differentiate between types of AI (generative vs. non-generative), critically evaluate AI tools, and understand their care implications. Effective Model Cards for Healthcare: We will explore how model cards can be tailored for greater clinical utility and shared understanding.
+- **Effective Clinician-Facing Dashboards for AI Models:** We will explore how interdisciplinary teams can design model outputs, prioritizing safe patient care.
+- **Stakeholder Perspectives in Medical AI Implementation:** Examining the roles and viewpoints of developers, clinicians, patients, hospital administrators, policymakers, and industry leaders in integrating AI into healthcare settings.
+- **Ethical, Legal, and Operational Challenges of AI Deployment:** Addressing key concerns such as bias, data privacy, liability, regulatory considerations, and the logistical barriers to AI adoption in clinical workflows.
 
 
 ## 📅 Workshop Schedule
