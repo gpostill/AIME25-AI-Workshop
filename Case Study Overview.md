@@ -7,7 +7,7 @@ Welcome to the case study repository for the **Introduction to AI in Healthcare 
 ## 📖 Case Study Scenario
 
 **Scenario:**  
-You have been asked to develop a model that automates the ordering of the initial set of tests needed in the emergency department of your local hospital. The AI system achieves 92% overall accuracy but has been found to perform worse in certain patient subgroups.
+You have been asked to develop a model that automates the ordering of the initial set of tests needed in the emergency department of your local hospital. It can be used for a range of medical conditions and will prompt the traige nurse and responsible physician depending on the information they input into the chart. The model also displays confidence level. The healthcare professional can then activate the ordering of subsequent tests. The AI system achieves **92% overall accuracy** in validation.
 
 Your task is to explore the implications of different model architectures for this clinical setting, especially as it pertains to fairness, explainability, and generalizability.
 
@@ -70,10 +70,6 @@ By the end of this case study, participants will be able to:
 - Reflect on the ethical and implementation implications of AI in healthcare
 
 ---
-
-## 🗂️ Repository Structure
-
-
 
 
 
