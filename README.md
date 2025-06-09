@@ -5,7 +5,7 @@ Welcome to the official workshop site for our AIME 2025 workshop! This workshop 
 
 
 ---
-## 💬 Workshop Rationale and Overview
+## Workshop Rationale and Overview
 
 The increasing deployment of AI in healthcare raises critical questions about how clinicians should be trained to interact with AI-driven decision support tools. While some argue that physicians need only a conceptual understanding of AI, others believe deeper technical training is necessary to ensure safe and effective use. Similarly, for AI developers, the extent of clinical expertise required has yet to be explicitly stated; indeed, an understanding of the healthcare context is pertinent as various assumptions about clinical variables and workflows are embedded within model architectures. Providing guidelines around the types of knowledge needed by each stakeholder (hospital, clinicians, developers) is pertinent to enable interdisciplinary collaboration. Clear guidelines around the knowledge of each stakeholder is also a pre-requirement to current debates around equity and liability with deployed AI models. This topic is particularly relevant to AIME attendees, as AI literacy among healthcare professionals – and health literacy among AI developers – are foundational factors in determining the success of AI integration into clinical practice. 
 
@@ -18,7 +18,7 @@ Target audience of our workshop includes AIME attendees who are:
 - Policymakers and administrators designing AI education policies
 
 
-## 💬 Workshop Topics
+## Workshop Topics
 
 This workshop will explore key considerations of the education and interdisciplinary collaboration needed for integrating AI into medical education and clinical practice. The session will focus on the following topics:
 - **Knowledge needed across interdisciplinary stakeholders:** We will explore the appropriate level of technical expertise required for clinicians to effectively and safely use AI-driven tools in decision-making, and conversely the appropriate clinical knowledge needed for developers to understand the clinical context.
@@ -36,7 +36,7 @@ The main
 - [Intro to Machine Learning](notebooks/intro_to_ml.ipynb)
 - [Case Studies in AI Ethics](notebooks/ethics_case_studies.md)
 
-## 💬 Workshop Chairs
+## Workshop Chairs
 
 - **Gemma Postill**, MD/PhD Candidate, University of Toronto - As an MD/PhD Candidate, Gemma has expertise in AI applications in healthcare outcome prediction and clinical decision support. She also has expertise in medical education, having led multiple initiatives on AI literacy for healthcare professionals. Gemma is actively involved in medical education research to develop an AI competency framework, and separately a clinician scientist competency framework. Together, the research and education initiatives she leads help to bridge the gap between AI development and real-world clinical implementation.
 - **Dr. Kimberly D. Lomis**, Vice President for Medical Education Innovations at the American Medical Association - In that capacity, she guides the AMA ChangeMedEd® Initiative, partnering with medical schools, GME and CPD programs to impact over 30,000 medical learners across the United States. Themes of collaborative work and advocacy efforts among the institutions engaged in the initiative include competency-based medical education, training in health systems science across the continuum, development of master adaptive learners, coaching for health professionals, promoting diversity of the physician workforce and inclusive environments, addressing learner & faculty wellbeing, advancing educational technology and AI in medical education, and change management. Dr. Lomis oversees AMA’s Precision Education portfolio of projects leveraging data and technology to personalized and enhance medical education across the continuum.
