@@ -1,9 +1,17 @@
-# AIME25-AI-Workshop
-## Workshop for the AIME 2025 Conference 
+# The AI Learning Curve: What Physicians Need to Know About AI, and What Developers Need to Know About Medicine**.
+**A workshop for the AIME 2025 Conference** 
 
-Welcome to the official workshop site! This workshop is created through a collaboration with researchers at T-CAIREM (University of Toronto) and the AMA (Ameriican Medical Assocaition). We designed the session for computer science and medical - both trainees and researchers alike. 
+Welcome to the official workshop site! This workshop is created through a collaboration with researchers at [T-CAIREM](https://tcairem.utoronto.ca) (University of Toronto) and the [AMA](https://www.ama-assn.org) (Ameriican Medical Assocaition). We designed the session for computer science and medical - both trainees and researchers alike. 
 
 ---
+## 💬 Workshop Abstract
+
+The integration of Artificial Intelligence (AI) into healthcare is rapidly transforming medical practice. Successful deployment of AI models into healthcare requires interdisciplinary collaborations between clinicians and data scientists. Yet, such collaboration is impeded by the lack of shared understanding and language across disciplines. Additionally, there remains significant debate on the level of technical expertise required for healthcare professionals to safely leverage AI tools. 
+
+This workshop will explore the core technical AI competencies necessary for clinicians using AI, as well as the tenants of healthcare that data scientists need to be aware of when developing AI for healthcare and health research. Through interactive discussions, case studies, and hands-on activities, participants will evaluate different AI education models, discuss legal and ethical considerations, and propose strategies fostering AI literacy among healthcare professionals. The session will conclude with structured data collection to capture participants' insights, informing a follow-up commentary on the evolving role of interdisciplinary collaboration and AI literacy in healthcare. To ensure the findings of this workshop translate to the broader community, our output will be a commentary summarizing the thoughts discussed in the workshop titled: **The AI Learning Curve: What Physicians Need to Know About AI, and What Developers Need to Know About Medicine**.
+
+
+## 💬 Workshop Abstract
 
 
 ## 📅 Workshop Schedule
