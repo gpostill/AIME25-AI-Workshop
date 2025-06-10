@@ -61,16 +61,6 @@ A fine-tuned generative large language model (LLM) that reads triage notes and v
 
 ---
 
-## 🎯 Learning Objectives
-
-By the end of this case study, participants will be able to:
-- Compare trade-offs between model complexity and clinical utility
-- Understand how data modality affects model performance
-- Identify validation gaps and fairness concerns
-- Reflect on the ethical and implementation implications of AI in healthcare
-
----
-
 
 
 ![image](https://github.com/user-attachments/assets/f0d3f003-2ed3-45c5-9601-3960b5c23a49)
