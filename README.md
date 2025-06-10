@@ -28,13 +28,8 @@ This workshop will explore key considerations of the education and interdiscipli
 - **Ethical, Legal, and Operational Challenges of AI Deployment:** Addressing key concerns such as bias, data privacy, liability, regulatory considerations, and the logistical barriers to AI adoption in clinical workflows.
 
 
-## 📅 Workshop Schedule
-See the full [schedule](schedule.md).
-
 ## 📚 Materials
-The main 
-- [Intro to Machine Learning](notebooks/intro_to_ml.ipynb)
-- [Case Studies in AI Ethics](notebooks/ethics_case_studies.md)
+Navigate to the [Case-Study](https://github.com/gpostill/AIME25-AI-Workshop/tree/Case-Study) branch for more details!
 
 ## Workshop Chairs
 
