@@ -1,6 +1,6 @@
-# 🏥 AI in Healthcare Workshop – Case Study Materials
+# 🏥 Case Study Overview 
 
-Welcome to the case study repository for the **Introduction to AI in Healthcare Workshop**. This hands-on case study will guide you through the process of evaluating different types of AI models in a real-world clinical context.
+Welcome to the case study repository for the **Introduction to AI in Healthcare Workshop**. This hands-on case study will guide you through the process of evaluating different types of AI models in a real-world clinical context. Note: for details on how to navidate to each file see the README.md file.
 
 ---
 
