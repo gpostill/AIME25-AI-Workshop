@@ -1,7 +1,7 @@
 # Fostering Collaboration between Developers and Physicians to Optimize AI in Healthcare
 *A workshop for the AIME 2025 Conference*
 
-Welcome to the official workshop site for our AIME 2025 workshop! This workshop is created through a collaboration with researchers at [T-CAIREM](https://tcairem.utoronto.ca) (University of Toronto) and the [AMA](https://www.ama-assn.org) (Ameriican Medical Assocaition). 
+Welcome to the official workshop site for our AIME 2025 workshop! This workshop is created through a collaboration with researchers at [T-CAIREM](https://tcairem.utoronto.ca) (University of Toronto) and the [AMA](https://www.ama-assn.org) (American Medical Association). 
 
 
 ---
