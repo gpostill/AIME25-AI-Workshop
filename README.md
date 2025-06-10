@@ -14,3 +14,14 @@
 
 Discussion can be done out of order and based on their relevance to the gorup present. We have number the discussions in order of the development --> deployment pipeline. Click discussion to navigate direclty to the discussion document. 
 
+---
+
+## 🎯 Case Study Learning Objectives
+
+By the end of this case study, participants will be able to:
+- Compare trade-offs between model complexity and clinical utility
+- Understand how data modality affects model performance
+- Identify validation gaps and fairness concerns
+- Reflect on the ethical and implementation implications of AI in healthcare
+
+---
