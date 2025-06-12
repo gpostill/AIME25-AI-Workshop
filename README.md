@@ -1,5 +1,5 @@
 # Welcome to the Case Study ! 
----
+
 ## Detail on How to Navigate this Branch
 
 1. First check out the [case study overview](https://github.com/gpostill/AIME25-AI-Workshop/blob/Case-Study/Case%20Study%20Overview.md) to understand context and the various models invovled in the case study.  
@@ -18,7 +18,7 @@ Discussion can be done out of order and based on their relevance to the gorup pr
 
 4. Email the final discussion guide to [gemma.postill@utoronto.ca]. Add your names so that we can credit this work to you!  
 
----
+
 
 ## 🎯 Case Study Learning Objectives
 
