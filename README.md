@@ -5,7 +5,7 @@
 1. First check out the [case study overview](https://github.com/gpostill/AIME25-AI-Workshop/blob/Case-Study/Case%20Study%20Overview.md) to understand context and the various models invovled in the case study.  
 
 
-2. Download [note template](). Keep track of your discussion by taking notes on this document. 
+2. Download [note template](https://github.com/gpostill/AIME25-AI-Workshop/blob/Case-Study/Note%20Template.docxhttps://github.com/gpostill/AIME25-AI-Workshop/blob/Case-Study/Note%20Template.docx). Keep track of your discussion by taking notes on this document. 
 
 3. Then pick your discussion. 
     - **[Discussion 1](https://github.com/gpostill/AIME25-AI-Workshop/blob/Case-Study/Discussion1.pptx)**: What clinical knowledge would developers need? 
